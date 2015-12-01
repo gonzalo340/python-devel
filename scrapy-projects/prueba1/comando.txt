@@ -1,0 +1,1 @@
+crapy crawl tinglesa -o tinglesa.items.json -t json
